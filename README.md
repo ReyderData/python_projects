@@ -10,3 +10,9 @@ in it and create the csv files, if one already exists, it wil be skipped
 
 At the moment, the separator and encoding are a comma and latin as default, can update to pass them as 
 arguments to the function.
+
+* excel_to_csv_params.py
+
+  Updated the previous version to further customization of the converter.
+  Now it is possible to choose between a few separators and encodings, after that you select
+  the desired folder as in the other program
