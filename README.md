@@ -16,3 +16,13 @@ arguments to the function.
   Updated the previous version to further customization of the converter.
   Now it is possible to choose between a few separators and encodings, after that you select
   the desired folder as in the other program
+
+* zip_unzip_files.py
+
+  A graphic window that allows the user to find a zip file in the unit and unzip it, or viceversa.
+  You can modify the .zip filename and the destination folder
+
+* extract_PDF_pages.py
+
+  A graphic window that allows to find a pdf file in your system and select which pages of that pdf do you want
+  and it creates a pdf with only those pages, indicated with the numbers separated by commas
